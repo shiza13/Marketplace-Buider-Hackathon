@@ -1,0 +1,11 @@
+Test Case ID,Test Case Description,Test Steps,Expected Result,Actual Result,Status,Severity Level,Assigned To,Remarks
+TC001,Main Page Loads,Open the website,Homepage should display properly,Works fine,Passed,Low,-,-
+TC002,Navigation to Crockery Page,Click on Crockery menu,Crockery page should open,Works fine,Passed,Low,-,-
+TC003,Navigation to Chair Page,Click on Chair menu,Chair page should open,Works fine,Passed,Low,-,-
+TC004,Navigation to Ceramics Page,Click on Ceramics menu,Ceramics page should open,Works fine,Passed,Low,-,-
+TC005,Navigation to Tableware Page,Click on Tableware menu,Tableware page should open,Works fine,Passed,Low,-,-
+TC006,Product Listing Displays,Open Product Listing Page,All products should be displayed,Works fine,Passed,Medium,-,-
+TC007,Add Product to Cart,Click 'Add to Cart' button on a product,Product should be added to cart,Works fine,Passed,Medium,-,-
+TC008,Cart Page Loads,Go to Cart Page,Cart should display added products,Works fine,Passed,Medium,-,-
+TC009,Checkout Process,Proceed to checkout,Checkout should complete successfully,Works fine,Passed,High,Developer,-
+TC010,Responsiveness,Resize window to mobile size,Layout should adjust properly,Works fine,Passed,Medium,-,-
